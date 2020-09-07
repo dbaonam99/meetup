@@ -1,0 +1,15 @@
+
+.category-item {
+	list-style-type: none;
+	background-color: red;
+	text-align: center;
+}
+.category-item li {
+	display: inline-table;
+	line-height: 40px;
+	height: 40px;
+	width: auto;
+	padding: 0px 20px; 
+	color: #FFF;
+	background-color: blue;
+}
